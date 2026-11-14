@@ -208,4 +208,4 @@ This repository serves as the official landing page for Adobe Fireworks. The sof
 **Get the most recent version of Adobe Fireworks today!**
 
 ---
-**Last updated:** 2026-11-14 11:55:43 UTC
+**Last updated:** 2026-11-14 17:26:38 UTC
